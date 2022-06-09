@@ -1,0 +1,10 @@
+
+Gemfile.lock
+
+package-lock.json
+
+# macOS
+.DS_Store
+
+_site
+
