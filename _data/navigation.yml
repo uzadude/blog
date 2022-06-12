@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "Resume"
-    url: /docs/cv
+  - title: "About"
+    url: /docs/about
   - title: "Projects"
     url: /docs/grill/
