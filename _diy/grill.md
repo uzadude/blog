@@ -1,0 +1,45 @@
+---
+title: Argentine Grill
+layout: single
+classes: wide
+date: 2022-06-13
+author_profile: true
+gallery1:
+  - url: /assets/imgs/grill-plans.png
+    image_path: /assets/imgs/grill-plans.png
+    alt: "SketchUp Plans"
+    title: "SketchUp Plans"
+  - url: /assets/imgs/grill-header.jpg
+    image_path: /assets/imgs/grill-header.jpg
+    alt: "Argentine Grill"
+    title: "Argentine Grilll"
+
+gallery2:
+  - image_path: /assets/imgs/grill1.jpg
+  - image_path: /assets/imgs/grill2.jpg
+  - image_path: /assets/imgs/grill3.jpg
+  - image_path: /assets/imgs/grill4.jpg
+  - image_path: /assets/imgs/grill5.jpg
+  - image_path: /assets/imgs/grill6.jpg
+---
+
+My first welding project - from plans to final product:
+
+{% include gallery id="gallery1" %}
+
+After a few years I did not get to work on a pet project because of work/kids/life/whatever, it tickled in my hands to learn something new. I convinced one of my friends and we took a welding course.
+
+I already had some experience with amateur carpentary, and learned that amateur welding is less complex in terms of both theory and required tools. Basically all you need is a welding machine and disc (angle grinder). That's an amazing upside!
+
+The downside is that you can basically build only two products - a grill and a smoker. So that's what I "decided" to do!
+I have built this grill as my welding course's "final project". It took about 5 working days, which spanned over a few months.
+
+I started this project by learning some [SketchUp](https://www.sketchup.com/products/sketchup-for-web) (the online free version). It is not very intuitive at first, especially if you don't have prior CAD software experience, so I would recommend some youtube tutorials.
+My design tried to follow the main features of argentine grills from Google photos ([for example](https://www.heritagebackyard.com/argentine-bbq-grills-with-a-cart-and-a-side-brasero-black-steel-and-stainless-steel-free-shipping/)) - wood box, height control, angled v-grates and cart on wheels. Here are the final plans - [pdf](https://drive.google.com/file/d/1-PHrdUqVthc6dWvIufLOeR36X269dZes/view?usp=sharing), [skp](https://drive.google.com/file/d/1hhnDqUSDZ81N2wACwPKFd756IhPI1Zz3/view?usp=sharing).
+
+After two sessions in welding course that we learned how to work with the electrode, I have started working on the grill. I used a "black iron" (wrought iron), a low carbon steel, as that is what we had avaiable at the course and also this is the most common welding material used. Afterwards I read that many people prefer low carbon steel over stainless steel for grills as it has much better heat conductivity (59 vs. 14 wtfs [ref](https://www.engineeringtoolbox.com/thermal-conductivity-metals-d_858.html)).
+
+Here are some photos from the process:
+{% include gallery id="gallery2" %}
+
+
