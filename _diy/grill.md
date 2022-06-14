@@ -4,6 +4,11 @@ layout: single
 classes: wide
 date: 2022-06-13
 author_profile: true
+header:
+  teaser: /assets/imgs/grill-header.jpg
+
+excerpt: My first welding project - from plans to final product
+
 gallery1:
   - url: /assets/imgs/grill-plans.png
     image_path: /assets/imgs/grill-plans.png
@@ -13,7 +18,6 @@ gallery1:
     image_path: /assets/imgs/grill-header.jpg
     alt: "Argentine Grill"
     title: "Argentine Grilll"
-
 gallery2:
   - image_path: /assets/imgs/grill1.jpg
   - image_path: /assets/imgs/grill2.jpg
