@@ -5,7 +5,7 @@ classes: wide
 date: 2022-06-13
 author_profile: true
 header:
-  teaser: /assets/imgs/smoker/smoker-header.jpg
+  teaser: /assets/imgs/smoker/smoker-header3.jpg
 
 excerpt: Smoker with auto fan
 
