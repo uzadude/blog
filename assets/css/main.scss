@@ -9,6 +9,29 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 
+html {
+    font-size: 16px; // originally 16px
+    @include breakpoint($medium) {
+        font-size: 16px; // originally 18px
+    }
+
+    @include breakpoint($large) {
+        font-size: 18px; // originally 20px
+    }
+
+    @include breakpoint($x-large) {
+        font-size: 20px; // originally 22px
+    }
+}
+
+figure img {
+	border-radius: 10px;
+}
+
+figcaption {
+	text-align: center;
+}
+
 .archive {
   .archive__item-teaser {
     @include breakpoint($medium) {
@@ -16,3 +39,5 @@ search: false
     }
   }
 }
+
+

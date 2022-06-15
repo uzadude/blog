@@ -7,7 +7,7 @@ author_profile: true
 header:
   teaser: /assets/imgs/grill-header.jpg
 
-excerpt: My first welding project - from plans to final product
+excerpt: My first welding project
 
 gallery1:
   - url: /assets/imgs/grill-plans.png
@@ -27,9 +27,8 @@ gallery2:
   - image_path: /assets/imgs/grill6.jpg
 ---
 
-My first welding project - from plans to final product:
-
-{% include gallery id="gallery1" %}
+My first welding project:
+{% include gallery id="gallery1" caption="From plans to final product" %}
 
 After a few years I did not get to work on a pet project because of work/kids/life/whatever, it tickled in my hands to learn something new. I convinced one of my friends and we took a welding course.
 
@@ -44,6 +43,6 @@ My design tried to follow the main features of argentine grills from Google phot
 After two sessions in welding course that we learned how to work with the electrode, I have started working on the grill. I used a "black iron" (wrought iron), a low carbon steel, as that is what we had avaiable at the course and also this is the most common welding material used. Afterwards I read that many people prefer low carbon steel over stainless steel for grills as it has much better heat conductivity (59 vs. 14 wtfs [ref](https://www.engineeringtoolbox.com/thermal-conductivity-metals-d_858.html)).
 
 Here are some photos from the process:
-{% include gallery id="gallery2" %}
+{% include gallery id="gallery2" caption="Hightlights of the process from the welding workshop, my parents backyard and final location at Kinneret in my wife's parents house" %}
 
 
