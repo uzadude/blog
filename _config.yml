@@ -116,6 +116,7 @@ defaults:
       path: ""
       type: diy
     values:
+      classes: wide
       layout: single
       read_time: false
       author_profile: true
