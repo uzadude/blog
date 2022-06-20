@@ -3,6 +3,6 @@ main:
   - title: "Resume"
     url: https://uzadude.github.io/online-cv/
   - title: "Projects"
-    url: /projects/
+    url: /categories/diy/
   - title: "Riddles"
-    url: /categories/#riddles
+    url: /categories/riddles/

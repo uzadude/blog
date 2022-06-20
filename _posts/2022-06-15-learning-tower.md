@@ -1,6 +1,9 @@
 ---
 title: Learning Tower
-date: 2022-06-17
+category: DIY
+tags:
+  - carpentry
+
 header:
   teaser: /assets/imgs/carpentry/learning tower.jpg
 

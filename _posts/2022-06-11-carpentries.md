@@ -1,6 +1,9 @@
 ---
 title: Assorted Carpentry Works
-date: 2022-06-12
+category: DIY
+tags:
+  - carpentry
+
 header:
   teaser: /assets/imgs/carpentry/cabinet.jpg
 
@@ -25,5 +28,5 @@ The end-grain cutting board is my first "real" independent wood working project.
 
 {% include gallery id="gallery2" caption="Kitchen tools - end-grain cutting board and a knife hanger" %}
 
-A few years after the carpentry course I took a short woodturning course. The course's project was this lamp, and I still had some butcher left overs from the cutting board project so I made this bowl.
+A few years after the carpentry course I took a short wood-turning course. The course's project was this lamp, and I still had some butcher left overs from the cutting board project so I made this bowl.
 {% include gallery id="gallery3" %}

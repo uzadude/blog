@@ -29,8 +29,8 @@ logo                     : # path of logo image to display in the masthead, e.g.
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
 search_provider          : # lunr (default), algolia, google
 lunr:
   search_within_pages    : # true, false (default)
@@ -96,10 +96,10 @@ whitelist:
   - jekyll-include-cache
 
 # Collections
-collections:
-  diy:
-    output: true
-    permalink: /:collection/:path/
+# collections:
+#   diy:
+#     output: true
+#     permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -110,10 +110,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true  
+      classes: wide
   # _pages
   - scope:
       path: "_pages"
@@ -122,19 +123,6 @@ defaults:
       layout: single
       author_profile: true
       output: true
-  # _docs
-  - scope:
-      path: ""
-      type: diy
-    values:
-      classes: wide
-      layout: single
-      read_time: false
-      author_profile: true
-      share: false
-      comments: false
-      sidebar:
-        nav: "diy"
 
 
 # Sass/SCSS
