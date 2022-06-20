@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "Resume"
-    url: https://uzadude.github.io/online-cv/
   - title: "Projects"
     url: /categories/diy/
   - title: "Riddles"
     url: /categories/riddles/
+  - title: "CV"
+    url: https://uzadude.github.io/online-cv/
