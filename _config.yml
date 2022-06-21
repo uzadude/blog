@@ -35,6 +35,10 @@ search_provider          : # lunr (default), algolia, google
 lunr:
   search_within_pages    : # true, false (default)
 
+comments:
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman_v2", "staticman", "utterances", "giscus", "custom"
+  disqus:
+    shortname            : ohadraviv
 
 # Site Author
 author:
