@@ -7,7 +7,7 @@ category: Riddles
 You are given a 1km x 1km square area and you are told there is a straight line of cable hidden 1 meter below the ground that passes somewhere through this area.
 
 <figure style="width: 350px" class="align-center">
-  <img src="/assets/imgs/riddles/underground-cable.png" alt="">
+  <img src="{{site.baseurl}}/assets/imgs/riddles/underground-cable.png" alt="">
   <figcaption>An example of the hidden cable (red line) and digging lines (blue diagonal lines)</figcaption>
 </figure> 
 
