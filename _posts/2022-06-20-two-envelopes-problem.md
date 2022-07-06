@@ -2,7 +2,6 @@
 tags:
   - "Math"
 category: Riddles
-comments: true
 ---
 
 Quoting from the [wikipedia](https://en.wikipedia.org/wiki/Two_envelopes_problem):
