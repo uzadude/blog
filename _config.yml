@@ -35,6 +35,13 @@ search_provider          : # lunr (default), algolia, google
 lunr:
   search_within_pages    : # true, false (default)
 
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-BBGNRH3T08"
+    anonymize_ip: false # default
+
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman_v2", "staticman", "utterances", "giscus", "custom"
   disqus:
