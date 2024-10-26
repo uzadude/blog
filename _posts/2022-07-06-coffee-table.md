@@ -10,17 +10,26 @@ excerpt: Twin coffee tables from african walnut
 
 gallery1:
   - image_path: /assets/imgs/coffee table/coffee1.jpg
+    url: /assets/imgs/coffee table/coffee1.jpg
   - image_path: /assets/imgs/coffee table/coffee2.jpg
+    url: /assets/imgs/coffee table/coffee2.jpg
 gallery2:
   - image_path: /assets/imgs/coffee table/coffee3.jpg
+    url: /assets/imgs/coffee table/coffee3.jpg
   - image_path: /assets/imgs/coffee table/coffee4.jpg
+    url: /assets/imgs/coffee table/coffee4.jpg
   - image_path: /assets/imgs/coffee table/coffee5.jpg
+    url: /assets/imgs/coffee table/coffee5.jpg
 gallery3:
   - image_path: /assets/imgs/coffee table/coffee6.jpg
+    url: /assets/imgs/coffee table/coffee6.jpg
   - image_path: /assets/imgs/coffee table/coffee7.jpg
+    url: /assets/imgs/coffee table/coffee7.jpg
 gallery4:
   - image_path: /assets/imgs/coffee table/coffee9.jpg
+    url: /assets/imgs/coffee table/coffee9.jpg
   - image_path: /assets/imgs/coffee table/coffee8.jpg
+    url: /assets/imgs/coffee table/coffee8.jpg
 ---
 
 A few years ago we decided that we don't want a large coffee table in our leaving room. It takes up a lot of space, you always find yourself need to walk around it, and without it all the room feels bigger and more free.
